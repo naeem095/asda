@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "img": "images/listings/g-8.jpg",
+        "author": " easital_tech",
+        "category": "Admin Templates",
+        "title": "The7 — Website and eCommerce Builder for WordPress",
+        "description": "I can assist you in designing clean and minimal UI UX for your website in Adobe XD or Figma.",
+        "price": "59",
+        "sales": "105",
+        "updateDate": "03 Jun 24",
+        "review": "4.82",
+        "reviews": "94"
+    },
+    {
+        "id": 2,
+        "img": "images/listings/g-10.jpg",
+        "author": " easital_tech",
+        "category": "Admin Templates",
+        "title": "Salient | Creative Multipurpose & WooCommerce Theme",
+        "description": "I can assist you in designing clean and minimal UI UX for your website in Adobe XD or Figma.",
+        "price": "28",
+        "sales": "105",
+        "updateDate": "09 Oct 24",
+        "review": "4.50",
+        "reviews": "221"
+    },
+    {
+        "id": 3,
+        "img": "images/listings/g-9.jpg",
+        "author": " easital_tech",
+        "category": "Admin Templates",
+        "title": "XStore | Multipurpose WooCommerce Theme",
+        "description": "I can assist you in designing clean and minimal UI UX for your website in Adobe XD or Figma.",
+        "price": "31",
+        "sales": "105",
+        "updateDate": "09 Oct 24",
+        "review": "4.70",
+        "reviews": "450"
+    }
+]
